@@ -6,7 +6,7 @@ const Header = () => {
     <header className="header">
       <div className="left">
         <img
-          src="C:\Users\2301664\OneDrive - Cognizant\Desktop\Full Stack\Namaste React\C02 Igniting\react.png"
+          src="SRC Image "
           alt="Logo"
         />
       </div>
@@ -19,7 +19,7 @@ const Header = () => {
         <button type="submit">Submit</button>
       </div>
       <div className="right">
-        <img src="Namaste React\C02 Igniting\user.png" alt="User Icon" />
+        <img src="SRC img User" alt="User Icon" />
       </div>
     </header>
   );
